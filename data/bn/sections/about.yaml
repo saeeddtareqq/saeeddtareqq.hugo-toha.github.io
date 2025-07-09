@@ -8,11 +8,11 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Data Engineer
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: CodeWare Limited.
+  url: "https://www.codewareltd.com"
 
 
 # a summary about you
@@ -23,11 +23,11 @@ summary: 'আমি X বছর অভিজ্ঞতা সম্পন্ন �
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "saeed.codeware@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://www.github.com/saeeddtareqq"
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
@@ -43,7 +43,7 @@ socialLinks:
 
 - name: Facebook
   icon: "fab fa-facebook"
-  url: "#"
+  url: "facebook.com/saeedtareqq"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.

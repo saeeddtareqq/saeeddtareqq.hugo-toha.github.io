@@ -8,33 +8,33 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Data Engineer
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Codeware Limited.
+  url: "https://www.codewareltd.com"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a data engineer with 2 years of experience focused on building reliable and efficient data infrastructure. My work includes developing open-source tools in Go for Kubernetes, aimed at simplifying how teams deploy and manage data-intensive workloads in cloud-native environments. I enjoy solving complex system problems and occasionally dive into side projects like building themes or experimenting with data visualization tools.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "saeed.codeware@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://www.github.com/saeeddtareqq"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+#- name: Stackoverflow
+# icon: "fab fa-stack-overflow"
+#  url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
@@ -45,8 +45,8 @@ socialLinks:
   url: "#"
 
 - name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
+  icon: "fab fa -facebook"
+  url: "https://www.facebook.com/saeedtareqq"
 
 - name: Mastadon
   icon: "fab fa-mastodon"
