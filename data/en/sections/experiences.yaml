@@ -11,24 +11,25 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    logo: /images/sections/experiences/company1.jpg
+    name: CodeWare Limited.
+    url: "https://www.codewareltd.com"
+    location: Adabor-12, Mohammadpur, Dhaka.
+    logo: /images/sections/experiences/codeware-logo.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company1.jpg
+    # assets/images/sections/experiences/codeware-logo.png
     # company overview
     overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Sr. OSS / Data Engineer
+    start: Nov 2023
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Design and Build Data Pipelines
+    - Manage Data Infrastructure.
+    - Ensure Data Quality and Accessibility.
 
   - designation: Junior Software Engineer
     start: Nov 2017

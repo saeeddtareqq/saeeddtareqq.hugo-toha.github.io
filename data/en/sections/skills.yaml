@@ -25,11 +25,11 @@ buttons:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
+- name: Apache Spark
   logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  categories: ["container"]
-  url: "https://kubernetes.io/"
+  summary: "Familiar with PySpark for distributed data processing and handling large-scale datasets"
+  categories: ["language", "others"]
+  url: "https://spark.apache.org/"
 
 - name: Go Development
   logo: /images/sections/skills/go.png
@@ -44,28 +44,28 @@ skills:
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+  summary: "Capable of containerizing applications for consistent deployment environments"
   categories: ["container"]
   url: "https://www.docker.com/"
 
-- name: Prometheus
+- name: ETL Pipelines
   logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+  summary: "Skilled in designing and implementing extract-transform-load workflows"
   categories: ["basic"]
   url: "https://prometheus.io/"
 
-- name: Linux
+- name: Data Modeling
   logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-  categories: ["others"]
+  summary: "Understanding of schema design principles including star schema and normalization"
+  categories: ["basic"]
 
-- name: Git
+- name: Git & GitHub
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  summary: "Daily usage of version control systems for managing code and collaborating on projects"
   categories: ["basic"]
   url: "https://git-scm.com/"
 
-- name: C++
+- name: Kubernetes
   logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
-  categories: ["basic", "language"]
+  summary: "Developed OSS tools in Go for deploying and managing workloads in Kubernetes clusters"
+  categories: ["basic", "language", "container", "others"]
