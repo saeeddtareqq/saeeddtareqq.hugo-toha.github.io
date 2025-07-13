@@ -16,7 +16,7 @@ degrees:
   institution:
     name: Daffodil International University
     url: "https://daffodilvarsity.edu.bd/"
-    logo: /images/sections/education/tech_college.png
+    logo: /images/sections/education/diu-logo.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/tech_college.png
   grade: #(optional)
@@ -37,7 +37,7 @@ degrees:
   institution:
     name: BCIC College
     url: "https://bciccollege.edu.bd/"
-    logo: /images/sections/education/university.jpg
+    logo: /images/sections/education/BCIC-logo.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/university.jpg
   grade: #(optional)
@@ -84,7 +84,7 @@ degrees:
   institution:
     name: Monipur High School & College
     url: "https://mubc.edu.bd/"
-    logo: /images/sections/education/science_college.png
+    logo: /images/sections/education/mubc-logo.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/science_college.png
   grade: #(optional)

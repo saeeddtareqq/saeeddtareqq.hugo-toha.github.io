@@ -55,7 +55,7 @@ projects:
   summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
   tags: ["hobby", "fun"]
 
-- name: Toha
+- name: Saeed
   logo: /images/sections/projects/toha.png
   image: /images/sections/projects/toha_website.png
   role: Owner

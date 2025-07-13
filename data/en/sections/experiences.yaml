@@ -19,10 +19,10 @@ experiences:
     # darkLogo: /images/sections/experiences/company1.jpg
     # assets/images/sections/experiences/codeware-logo.png
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Codeware Limited is a Bangladesh and UK based Software Company doing highly qualitative development of software, web and mobile apps solution.
   positions:
   - designation: Sr. OSS / Data Engineer
-    start: Nov 2023
+    start: March 2024
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
@@ -31,36 +31,36 @@ experiences:
     - Manage Data Infrastructure.
     - Ensure Data Quality and Accessibility.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+#  - designation: Junior Software Engineer
+#    start: Nov 2017
+#    end: Oct 2019
+#    responsibilities:
+#    - Implement and test xyz feature for abc tool.
+#    - Support client for abc tool.
+#    - Learn k,d,w technology for xyz.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    logo: /images/sections/experiences/company2.jpg
+    name: CodeWare Limited.
+    url: "https://www.codewareltd.com"
+    location: Adabor-12, Mohammadpur, Dhaka.
+    logo: /images/sections/experiences/codeware-logo.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company2.jpg
     overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Data Analyst
+    start: November 2023
+    end: February 2024
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Collect and Analyze Data.
+    - Create Reports and Dashboards.
+    - Support Data-Driven Decision Making.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    logo: /images/sections/experiences/company3.jpg
+    name: Datasoft Limited.
+    url: "https://datasoft-bd.com/"
+    location: Shyamoli, Dhaka.
+    logo: /images/sections/experiences/datasoft-logo.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company3.jpg
     overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
@@ -69,6 +69,6 @@ experiences:
     start: Jun 2015
     end: Jan 2016
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Assist in Data Cleaning and Preparation
+    - Contribute to Data Pipeline Development
+    - Perform Exploratory Data Analysis (EDA)
